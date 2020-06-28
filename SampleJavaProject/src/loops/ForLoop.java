@@ -50,7 +50,7 @@ public class ForLoop {
 
 	public static void forEachLoops() {
 		// list<WebElement> dropElements = driver.findElement(by."").....;
-		// for(Type variable : list/Array)
+		// for(Type variable : list/Array/set)
 		// for (WebElement ele1 : dropElements )
 
 		// for (int i : intArray) {
